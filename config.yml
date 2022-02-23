@@ -1,0 +1,14 @@
+################################
+#                              #
+# Dame Da Ne Bot Config File   #
+# by Presti                    #
+#                              #
+################################
+
+twitter:
+  consumer:
+    key: 2tYHR0XinezVComjqqJtB0ZwA
+    secret: 1befTFnmFoxghWOGyioPCkkiSPDebn0WNWRhmcc0A9BdFwGQeE
+  access:
+    key: 1496489739666477064-3NDfrroDHW4lFCxYkstthcY3kyAppv
+    secret: aso0mUhMirapeDgh5XRYVC2lL1LrviOuhJHkLkIVXKz64
